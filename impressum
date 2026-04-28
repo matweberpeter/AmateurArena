@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impressum</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 40px;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+    p {
+      margin: 8px 0;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
 
+  <h1>Impressum</h1>
+
+  <p>Angaben gemäß § 5 TMG:</p>
+
+  <p>
+    Peter Matweber<br>
+    Tegernseer Landstraße 24<br>
+    81541 München<br>
+    Deutschland
+  </p>
+
+  <p>
+    E-Mail: matweber.p@gmail.com
+  </p>
+
+  <p>
+    Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br>
+    Peter Matweber<br>
+    Anschrift wie oben
+  </p>
+
+</body>
+</html>
